@@ -1,5 +1,5 @@
-# pihole
-pihole
+# Blacklist
+The blacklist comprises approximately 3 million domains from advertising providers or tracking services
 
 # Whitelist Stuff
 
