@@ -1,3 +1,5 @@
+# This repo is just a privat copy and version of https://firebog.net/
+
 # Blacklist
 The blacklist comprises approximately 3 million domains from advertising providers or tracking services
 
